@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7beed004-b839-4167-9db7-d0b2b4297d65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBookMavenProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/baseclass/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/utility/TestUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/basetest/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/facebook/baseclass/BaseClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/facebook/pages/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/facebook/pages/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/facebook/utility/TestUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/facebook/basetest/LoginPageTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FaceBookMavenProject" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eXlJuQv2koCt8GJzZDOdRukDH4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Driver" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Documents\FaceBookMavenProject\Driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginPageTest.loginPageTest">
+    <configuration name="BaseClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.facebook.baseclass.BaseClass" />
+      <module name="FaceBookMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.facebook.baseclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FaceBookMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.facebook.basetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.facebook.basetest" />
+      <option name="MAIN_CLASS_NAME" value="com.facebook.basetest.LoginPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.loginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FaceBookMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.facebook.basetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.facebook.basetest" />
+      <option name="MAIN_CLASS_NAME" value="com.facebook.basetest.LoginPageTest" />
+      <option name="METHOD_NAME" value="loginPageTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FaceBookMavenProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginPageTest.loginPageTest" />
+        <item itemvalue="TestNG.LoginPageTest" />
+        <item itemvalue="Application.BaseClass" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7beed004-b839-4167-9db7-d0b2b4297d65" name="Default Changelist" comment="" />
+      <created>1594475749199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594475749199</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1594659006189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594659006189" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1594659006189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594659006189" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1594659006188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594659006188" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1594659006189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594659006189" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1594632091044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594632091044" />
+    <state x="209" y="109" key="new project wizard" timestamp="1594556907309">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="109" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1594556907309" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1594575960653">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594575960653" />
+  </component>
+</project>

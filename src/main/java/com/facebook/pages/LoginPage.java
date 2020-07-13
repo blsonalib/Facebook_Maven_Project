@@ -17,10 +17,13 @@ public class LoginPage extends BaseClass {
    public LoginPage(){
        PageFactory.initElements(driver,this);
    }
+   public String loginPageTitle(){
+       return driver.getTitle();
+   }
    public HomePage loginFB(String un,String pass){
        userId.sendKeys(un);
        password.sendKeys(pass);
        loginButton.click();
        return new HomePage();
- }
+    }
 }
